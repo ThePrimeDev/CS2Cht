@@ -1,0 +1,9 @@
+/media/jerryyy/Jerryyy/CS2Cht/build/CMakeFiles/CS2Cht.dir
+/media/jerryyy/Jerryyy/CS2Cht/build/CMakeFiles/edit_cache.dir
+/media/jerryyy/Jerryyy/CS2Cht/build/CMakeFiles/rebuild_cache.dir
+/media/jerryyy/Jerryyy/CS2Cht/build/binary_dir/CMakeFiles/edit_cache.dir
+/media/jerryyy/Jerryyy/CS2Cht/build/binary_dir/CMakeFiles/rebuild_cache.dir
+/media/jerryyy/Jerryyy/CS2Cht/build/binary_dir/src/CMakeFiles/glfw.dir
+/media/jerryyy/Jerryyy/CS2Cht/build/binary_dir/src/CMakeFiles/update_mappings.dir
+/media/jerryyy/Jerryyy/CS2Cht/build/binary_dir/src/CMakeFiles/edit_cache.dir
+/media/jerryyy/Jerryyy/CS2Cht/build/binary_dir/src/CMakeFiles/rebuild_cache.dir
